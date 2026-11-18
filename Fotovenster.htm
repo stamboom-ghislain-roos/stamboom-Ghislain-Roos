@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" >
+<head>
+<title>Fotovenster</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<style type="text/css"> 
+body{ font-family: Verdana, Helvetica, sans-serif; font-size: 10pt; }
+</style>
+<script type="text/javascript">
+<!--
+function do_onload() {
+  document.getElementById('njs').style.display = 'none';
+}
+if (window.addEventListener) {
+  window.addEventListener('load', do_onload, false);
+} else if(window.attachEvent) {
+  window.attachEvent('onload', do_onload);
+}
+window.onload = function () {
+  var height2 = 0, width2 = 0;
+
+  function getParam(name) {
+    var regex = new RegExp('[\?&]' + name + '=([^&#]*)');
+    var results = regex.exec(window.location.search);
+    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+  }
+
+  function zoom() {
+    if (height2 && width2) {
+      document.photo.style.height = (height2 * parseFloat(document.zoomform.ratio.value)) + 'px';
+      document.photo.style.width = (width2 * parseFloat(document.zoomform.ratio.value)) + 'px';
+    }
+  }
+
+  function zoomin() {
+    var sel = document.zoomform.ratio;
+    if (sel.selectedIndex < sel.options.length - 1) {
+      sel.selectedIndex += 1;
+      zoom();
+    }
+  }
+
+  function zoomout() {
+    var sel = document.zoomform.ratio;
+    if (sel.selectedIndex > 0) {
+      sel.selectedIndex -= 1;
+      zoom();
+    }
+  }
+
+  var src = getParam('img');
+  var title = getParam('title') || "Foto";
+  var staand = getParam('staand') === '1';
+
+  if (!src) {
+    document.body.innerHTML = '<p>Geen gegevens over afbeelding doorgegeven aan het fotovenster.</p>';
+    return;
+  }
+
+  document.title = title;
+
+  var form = document.createElement("form");
+  form.name = "zoomform";
+  form.method = "post";
+
+  var img = document.createElement("img");
+  img.name = "photo";
+  img.src = src;
+  img.alt = title;
+  img.title = "Klik links om te vergroten, rechts om te verkleinen.";
+  img.onclick = zoomin;
+  img.oncontextmenu = function () { zoomout(); return false; };
+  if (staand) {
+    img.style.height = "570px";
+    img.style.width = "auto";
+  } else {
+    img.style.width = "560px";
+    img.style.height = "auto";
+  }
+  img.onload = function () {
+    height2 = img.height;
+    width2 = img.width;
+    zoom();
+  };
+
+  var select = document.createElement("select");
+  select.name = "ratio";
+  select.style.visibility = "hidden";
+  select.onchange = zoom;
+
+  var zoomLevels = ["0.5", "0.75", "1", "1.5", "2"];
+  for (var i = 0; i < zoomLevels.length; i++) {
+    var opt = document.createElement("option");
+    opt.value = zoomLevels[i];
+    opt.text = "Zoom " + (parseFloat(zoomLevels[i]) * 100) + "%";
+    if (zoomLevels[i] === "1") opt.selected = true;
+    select.appendChild(opt);
+  }
+  
+  form.appendChild(img);
+  form.appendChild(select);
+  document.body.appendChild(form);
+};
+// -->
+</script>
+</head>
+<body>
+<div id="maindiv">
+<input type="hidden" id="hiddenid" value="0" />
+</div>
+<div id="njs">
+<p>Vergroot tonen van beeldmateriaal vereist dat 
+actieve inhoud uitgevoerd mag worden in bestanden op deze computer.
+Dit is momenteel niet het geval. Je kan dit als volgt activeren.
+Ga via Start naar het Configuratiescherm en 
+selecteer daar 'Internetopties' (categorie Netwerk- en Internetverbindingen). 
+Klik daarin op de tab Geavanceerd, vink onder het kopje Beveiliging 'Actieve inhoud mag 
+worden uitgevoerd in bestanden op mijn computer' aan 
+en klik onderaan op OK.
+</p><p>
+Je kan deze uitleg ook nog eens nalezen 
+in het rapportvenster op het scherm Aldfaer-rapporten.</p>
+</div>
+</body>
+</html>
