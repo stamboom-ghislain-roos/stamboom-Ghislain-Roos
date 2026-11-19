@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE
+svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+<!ENTITY acute "&#180;">
+<!ENTITY plusmn "&#177;">
+<!ENTITY rsquo "&#180;">
+<!ENTITY tilde "&#126;">
+]>
+<svg viewBox="0 0 1754 1140" width="1150" height="750"
+xmlns="http://www.w3.org/2000/svg" version="1.1"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Voorouderboom</title>
+<desc>Aldfaer-VB5.3.0</desc>
+<rect x="0" y="0" width="1754" height="1140" fill="#EE82EE"/>
+<image xlink:href="http://home.hccnet.nl/cplantagie/img/vb5gen-hq.gif" width="1754" height="1140"/>
+<defs>
+<style type="text/css"><![CDATA[
+.am:hover{stroke: #99CDFF; stroke-width: 2px;}
+.av:hover{stroke: #EE82EE; stroke-width: 2px;}
+text{font-family: 'Verdana', 'Verdana';}]]>
+</style>
+<text id="nm-1">Lucia </text><text id="sn-1">VAN DE CATSYE</text><text id="bdd1">* Everbeek 16-03-1824   &#8224; Everbeek 30-04-1881</text>
+<text id="nm-2">Jean-Baptist </text><text id="sn-2">VAN DE CATSYE</text><text id="bd-2">* Nederbrakel 29-01-1783</text><text id="dd-2">&#8224; Everbeek 04-04-1856</text>
+<text id="nm-4">Joseph </text><text id="sn-4">VAN DE CATSYE</text><text id="bd-4">* Boelaere 20-02-1754</text><text id="dd-4">&#8224; Nederbrakel 23-03-1827</text>
+<text id="nm-8">Jan-Baptist </text><text id="sn-8">VAN DE CATSYE</text><text id="bd-8">* Boelaere 17-06-1732</text><text id="dd-8">&#8224; Boelaere 25-06-1789</text>
+<text id="nm-16">Petrus J.</text><text id="sn-16">VAN DE CATSYE</text><text id="bd-16">* Geraadsbergen 30-04-1687</text><text id="dd-16">&#8224; Overboelare 05-10-1743</text>
+<text id="nm-17">Maria A.</text><text id="sn-17">VAN TRIMPONT</text><text id="bd-17"></text><text id="dd-17">&#8224; Boelaere 11-01-1772</text>
+<text id="nm-9">Joanna M.</text><text id="sn-9">ARENS</text><text id="bd-9">* Schendelbeke 11-04-1726</text><text id="dd-9">&#8224; Overboelare 29-07-1803</text>
+<text id="nm-18">Judocus </text><text id="sn-18">ARENS</text><text id="bd-18"></text><text id="dd-18">&#8224; Schendelbeke 02-01-1748</text>
+<text id="nm-19">Barbara </text><text id="sn-19">CAPIAU</text><text id="bd-19">* Schendelbeke 26-09-1700</text><text id="dd-19">&#8224; Schendelbeke 14-03-1777</text>
+<text id="nm-5">Elisabeth </text><text id="sn-5">VAN DE MERGEL</text><text id="bd-5">* Nederbrakel 16-12-1751</text><text id="dd-5">&#8224; Nederbrakel 16-10-1800</text>
+<text id="nm-10">Joannes </text><text id="sn-10">VAN DE MERGEL</text><text id="bd-10">* Nederbrakel 15-03-1705</text><text id="dd-10">&#8224; Nederbrakel 24-01-1786</text>
+<text id="nm-20">Petrus </text><text id="sn-20">VAN DE MERGEL</text><text id="bd-20">* Nederbrakel 30-04-1674</text><text id="dd-20">&#8224; Nederbrakel 25-02-1749</text>
+<text id="nm-21">Christina </text><text id="sn-21">EVERDIJNS</text><text id="bd-21">* Nederbrakel 20-08-1679</text><text id="dd-21">&#8224; Nederbrakel 27-04-1748</text>
+<text id="nm-11">Joanna M.</text><text id="sn-11">LOTS</text><text id="bd-11">* Zegelsem 12-10-1709</text><text id="dd-11">&#8224; Nederbrakel 01-08-1781</text>
+<text id="nm-22">Jacobus </text><text id="sn-22">LOTS</text><text id="bd-22">* 1670</text><text id="dd-22">&#8224; 03-08-1737</text>
+<text id="nm-23">Maria </text><text id="sn-23">DE PAPE</text><text id="bd-23">* Zegelsem 18-01-1665</text><text id="dd-23">&#8224; Zegelsem 14-01-1742</text>
+<text id="nm-3">Philippine J.</text><text id="sn-3">DURENARD</text><text id="bd-3">* Flobecq 01-04-1798</text><text id="dd-3">&#8224; Everbeek 23-10-1848</text>
+<text id="nm-6">Alexis J.</text><text id="sn-6">DURENARD</text><text id="bd-6">* Flobecq 23-09-1760</text><text id="dd-6">&#8224; Flobecq 30-08-1832</text>
+<text id="nm-12">Joseph </text><text id="sn-12">DURENARD</text><text id="bd-12">* Flobecq 1735</text><text id="dd-12">&#8224; Flobecq 06-01-1803</text>
+<text id="nm-24">Jean J.</text><text id="sn-24">DURENARD</text><text id="bd-24">* Flobecq 1718</text><text id="dd-24">&#8224; Flobecq 03-01-1760</text>
+<text id="nm-25">Marie A.</text><text id="sn-25">VINQ</text><text id="bd-25">* Flobecq 1718</text><text id="dd-25">&#8224; Flobecq 27-10-1761</text>
+<text id="nm-13">Jeanne C.</text><text id="sn-13">WATTIER</text><text id="bd-13">* Flobecq 30-07-1738</text><text id="dd-13"></text>
+<text id="nm-26">Pierre F.</text><text id="sn-26">WATTIER</text><text id="bd-26">* Flobecq 1703</text><text id="dd-26">&#8224; Flobecq 11-02-1768</text>
+<text id="nm-27">Marie F.</text><text id="sn-27">MOULIGNEAU</text><text id="bd-27">* Flobecq 16-02-1715</text><text id="dd-27">&#8224; Flobecq 13-02-1773</text>
+<text id="nm-7">Rosalie </text><text id="sn-7">LECLERCQ</text><text id="bd-7">* Lahamaide 11-09-1763</text><text id="dd-7">&#8224; Flobecq 19-05-1833</text>
+<text id="nm-14">Jean B.</text><text id="sn-14">LECLERCQ</text><text id="bd-14">* Lahamaide 09-03-1735</text><text id="dd-14">&#8224; Lahamaide 06-04-1794</text>
+<text id="nm-28">Petrus </text><text id="sn-28">LECLERCQ</text><text id="bd-28"></text><text id="dd-28">&#8224; Lahamaide 12-05-1777</text>
+<text id="nm-29">Marie F.</text><text id="sn-29">LORETTE</text><text id="bd-29">* 1707</text><text id="dd-29">&#8224; Lahamaide 09-09-1779</text>
+<text id="nm-15">Anne F.J.</text><text id="sn-15">BASSAING ( PASSIN )</text><text id="bd-15">* 1738</text><text id="dd-15">&#8224; Lahamaide 08-11-1802</text>
+</defs>
+<g transform="translate(0, -77)">
+<!-- gen1 -->
+<g style="text-anchor:middle" fill="black" font-size="22">
+<a class="av" xlink:href="index9.html" target="_top">
+<use x="877" y="1034" xlink:href="#nm-1"/>
+<use x="877" y="1056" xlink:href="#sn-1"/>
+</a>
+</g>
+<g style="text-anchor:middle" fill="black" font-size="15">
+<use x="877" y="1078" xlink:href="#bdd1"/>
+</g>
+<!-- gen2 -->
+<g style="text-anchor:middle" fill="black" font-size=" 22">
+<use x="476" y="810" xlink:href="#nm-2"/>
+<use x="476" y="832" xlink:href="#sn-2"/>
+<use x="1262" y="810" xlink:href="#nm-3"/>
+<use x="1262" y="832" xlink:href="#sn-3"/>
+</g>
+<g style="text-anchor:middle" fill="black" font-size="15">
+<use x="476" y="854" xlink:href="#bd-2"/>
+<use x="476" y="870" xlink:href="#dd-2"/>
+<use x="1262" y="854" xlink:href="#bd-3"/>
+<use x="1262" y="870" xlink:href="#dd-3"/>
+</g>
+<!-- gen3 -->
+<g style="text-anchor:middle" fill="black" font-size=" 18">
+<use x="280" y="590" xlink:href="#nm-4"/>
+<use x="280" y="612" xlink:href="#sn-4"/>
+<use x="674" y="590" xlink:href="#nm-5"/>
+<use x="674" y="612" xlink:href="#sn-5"/>
+<use x="1070" y="590" xlink:href="#nm-6"/>
+<use x="1070" y="612" xlink:href="#sn-6"/>
+<use x="1460" y="590" xlink:href="#nm-7"/>
+<use x="1460" y="612" xlink:href="#sn-7"/>
+</g>
+<g style="text-anchor:middle" fill="black" font-size="15">
+<use x="280" y="634" xlink:href="#bd-4"/>
+<use x="280" y="650" xlink:href="#dd-4"/>
+<use x="674" y="634" xlink:href="#bd-5"/>
+<use x="674" y="650" xlink:href="#dd-5"/>
+<use x="1070" y="634" xlink:href="#bd-6"/>
+<use x="1070" y="650" xlink:href="#dd-6"/>
+<use x="1460" y="634" xlink:href="#bd-7"/>
+<use x="1460" y="650" xlink:href="#dd-7"/>
+</g>
+<!-- gen4 -->
+<g style="text-anchor:middle" fill="black" font-size=" 18">
+<use x="188" y="400" xlink:href="#nm-8"/>
+<use x="188" y="422" xlink:href="#sn-8"/>
+<use x="386" y="400" xlink:href="#nm-9"/>
+<use x="386" y="422" xlink:href="#sn-9"/>
+<use x="578" y="400" xlink:href="#nm-10"/>
+<use x="578" y="422" xlink:href="#sn-10"/>
+<use x="773" y="400" xlink:href="#nm-11"/>
+<use x="773" y="422" xlink:href="#sn-11"/>
+<use x="974" y="400" xlink:href="#nm-12"/>
+<use x="974" y="422" xlink:href="#sn-12"/>
+<use x="1169" y="400" xlink:href="#nm-13"/>
+<use x="1169" y="422" xlink:href="#sn-13"/>
+<use x="1364" y="400" xlink:href="#nm-14"/>
+<use x="1364" y="422" xlink:href="#sn-14"/>
+<use x="1559" y="400" xlink:href="#nm-15"/>
+<use x="1559" y="422" xlink:href="#sn-15"/>
+</g>
+<g style="text-anchor:middle" fill="black" font-size="15">
+<use x="188" y="444" xlink:href="#bd-8"/>
+<use x="188" y="460" xlink:href="#dd-8"/>
+<use x="386" y="444" xlink:href="#bd-9"/>
+<use x="386" y="460" xlink:href="#dd-9"/>
+<use x="578" y="444" xlink:href="#bd-10"/>
+<use x="578" y="460" xlink:href="#dd-10"/>
+<use x="773" y="444" xlink:href="#bd-11"/>
+<use x="773" y="460" xlink:href="#dd-11"/>
+<use x="974" y="444" xlink:href="#bd-12"/>
+<use x="974" y="460" xlink:href="#dd-12"/>
+<use x="1169" y="444" xlink:href="#bd-13"/>
+<use x="1169" y="460" xlink:href="#dd-13"/>
+<use x="1364" y="444" xlink:href="#bd-14"/>
+<use x="1364" y="460" xlink:href="#dd-14"/>
+<use x="1559" y="444" xlink:href="#bd-15"/>
+<use x="1559" y="460" xlink:href="#dd-15"/>
+</g>
+<!-- gen5 -->
+<g transform="rotate(-90) translate(-410, 0)">
+<g style="text-anchor:middle;" fill="black" font-size=" 18">
+<use x="200" y="125" xlink:href="#nm-16"/>
+<use x="200" y="145" xlink:href="#sn-16"/>
+<use x="200" y="220" xlink:href="#nm-17"/>
+<use x="200" y="240" xlink:href="#sn-17"/>
+<use x="200" y="320" xlink:href="#nm-18"/>
+<use x="200" y="340" xlink:href="#sn-18"/>
+<use x="200" y="415" xlink:href="#nm-19"/>
+<use x="200" y="435" xlink:href="#sn-19"/>
+<use x="200" y="515" xlink:href="#nm-20"/>
+<use x="200" y="535" xlink:href="#sn-20"/>
+<use x="200" y="610" xlink:href="#nm-21"/>
+<use x="200" y="630" xlink:href="#sn-21"/>
+<use x="200" y="705" xlink:href="#nm-22"/>
+<use x="200" y="725" xlink:href="#sn-22"/>
+<use x="200" y="800" xlink:href="#nm-23"/>
+<use x="200" y="820" xlink:href="#sn-23"/>
+<use x="200" y="905" xlink:href="#nm-24"/>
+<use x="200" y="925" xlink:href="#sn-24"/>
+<use x="200" y="1000" xlink:href="#nm-25"/>
+<use x="200" y="1020" xlink:href="#sn-25"/>
+<use x="200" y="1100" xlink:href="#nm-26"/>
+<use x="200" y="1120" xlink:href="#sn-26"/>
+<use x="200" y="1195" xlink:href="#nm-27"/>
+<use x="200" y="1215" xlink:href="#sn-27"/>
+<use x="200" y="1295" xlink:href="#nm-28"/>
+<use x="200" y="1315" xlink:href="#sn-28"/>
+<use x="200" y="1390" xlink:href="#nm-29"/>
+<use x="200" y="1410" xlink:href="#sn-29"/>
+<use x="200" y="1490" xlink:href="#nm-30"/>
+<use x="200" y="1510" xlink:href="#sn-30"/>
+<use x="200" y="1590" xlink:href="#nm-31"/>
+<use x="200" y="1610" xlink:href="#sn-31"/>
+</g>
+<g style="text-anchor:middle" fill="black" font-size="15">
+<use x="200" y="165" xlink:href="#bd-16"/>
+<use x="200" y="181" xlink:href="#dd-16"/>
+<use x="200" y="260" xlink:href="#bd-17"/>
+<use x="200" y="276" xlink:href="#dd-17"/>
+<use x="200" y="360" xlink:href="#bd-18"/>
+<use x="200" y="376" xlink:href="#dd-18"/>
+<use x="200" y="455" xlink:href="#bd-19"/>
+<use x="200" y="471" xlink:href="#dd-19"/>
+<use x="200" y="555" xlink:href="#bd-20"/>
+<use x="200" y="571" xlink:href="#dd-20"/>
+<use x="200" y="650" xlink:href="#bd-21"/>
+<use x="200" y="666" xlink:href="#dd-21"/>
+<use x="200" y="745" xlink:href="#bd-22"/>
+<use x="200" y="761" xlink:href="#dd-22"/>
+<use x="200" y="840" xlink:href="#bd-23"/>
+<use x="200" y="856" xlink:href="#dd-23"/>
+<use x="200" y="945" xlink:href="#bd-24"/>
+<use x="200" y="961" xlink:href="#dd-24"/>
+<use x="200" y="1040" xlink:href="#bd-25"/>
+<use x="200" y="1056" xlink:href="#dd-25"/>
+<use x="200" y="1140" xlink:href="#bd-26"/>
+<use x="200" y="1156" xlink:href="#dd-26"/>
+<use x="200" y="1235" xlink:href="#bd-27"/>
+<use x="200" y="1251" xlink:href="#dd-27"/>
+<use x="200" y="1335" xlink:href="#bd-28"/>
+<use x="200" y="1351" xlink:href="#dd-28"/>
+<use x="200" y="1430" xlink:href="#bd-29"/>
+<use x="200" y="1446" xlink:href="#dd-29"/>
+<use x="200" y="1530" xlink:href="#bd-30"/>
+<use x="200" y="1546" xlink:href="#dd-30"/>
+<use x="200" y="1630" xlink:href="#bd-31"/>
+<use x="200" y="1646" xlink:href="#dd-31"/>
+</g>
+</g>
+
+</g>
+</svg>

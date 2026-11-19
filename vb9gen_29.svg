@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE
+svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+<!ENTITY acute "&#180;">
+<!ENTITY plusmn "&#177;">
+<!ENTITY rsquo "&#180;">
+<!ENTITY tilde "&#126;">
+]>
+<svg viewBox="0 0 1754 1140" width="1150" height="750"
+xmlns="http://www.w3.org/2000/svg" version="1.1"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Voorouderboom</title>
+<desc>Aldfaer-VB5.3.0</desc>
+<rect x="0" y="0" width="1754" height="1140" fill="#EE82EE"/>
+<image xlink:href="http://home.hccnet.nl/cplantagie/img/vb5gen-hq.gif" width="1754" height="1140"/>
+<defs>
+<style type="text/css"><![CDATA[
+.am:hover{stroke: #99CDFF; stroke-width: 2px;}
+.av:hover{stroke: #EE82EE; stroke-width: 2px;}
+text{font-family: 'Verdana', 'Verdana';}]]>
+</style>
+<text id="nm-1">Coleta </text><text id="sn-1">VAN LIERDE</text><text id="bdd1">* Everbeek 24-11-1821   &#8224; Everbeek 29-01-1862</text>
+<text id="nm-2">Francois </text><text id="sn-2">VAN LIERDE</text><text id="bd-2">* Zarlardinge 03-10-1782</text><text id="dd-2">&#8224; Everbeek 11-09-1825</text>
+<text id="nm-4">Jan-Baptist </text><text id="sn-4">VAN LIERDE</text><text id="bd-4">* Overboelare 25-04-1747</text><text id="dd-4">&#8224; Zarlardinge 15-06-1807</text>
+<text id="nm-8">Antoine </text><text id="sn-8">VAN LIERDE</text><text id="bd-8">* Overboelare 03-03-1687</text><text id="dd-8">&#8224; Overboelare 27-10-1754</text>
+<text id="nm-16">Petrus </text><text id="sn-16">VAN LIERDE</text><text id="bd-16">* Everbeek 22-05-1658</text><text id="dd-16">&#8224; Overboelare 1713</text>
+<text id="nm-17">Martina </text><text id="sn-17">MATTHIJS</text><text id="bd-17">* Overboelare 26-12-1660</text><text id="dd-17">&#8224; Overboelare 24-08-1720</text>
+<text id="nm-9">Anne M.</text><text id="sn-9">HENDRICKX</text><text id="bd-9"></text><text id="dd-9">&#8224; Overboelare 23-10-1787</text>
+<text id="nm-18">Lieven </text><text id="sn-18">HENDRICKX</text><text id="bd-18"></text><text id="dd-18"></text>
+<text id="nm-5">Aldegonde </text><text id="sn-5">DE LEEUW</text><text id="bd-5">* Overboelare 28-05-1751</text><text id="dd-5">&#8224; Sarlardinge 12-01-1800</text>
+<text id="nm-10">Cornelius </text><text id="sn-10">DE LEEUW</text><text id="bd-10"></text><text id="dd-10">&#8224; Overboelare 07-03-1755</text>
+<text id="nm-20">Cornelius </text><text id="sn-20">DE LEEUW</text><text id="bd-20"></text><text id="dd-20"></text>
+<text id="nm-11">Elisabeth </text><text id="sn-11">VAN RUYSKENSVELDE</text><text id="bd-11"></text><text id="dd-11"></text>
+<text id="nm-3">Catherina </text><text id="sn-3">DUPONT</text><text id="bd-3">* Everbeek 18-03-1791</text><text id="dd-3">&#8224; Sint Maria-Oudenhove 10-02-1841</text>
+<text id="nm-6">Jan-Baptist </text><text id="sn-6">DUPONT</text><text id="bd-6">* Everbeek 18-09-1760</text><text id="dd-6">&#8224; Everbeek 01-09-1844</text>
+<text id="nm-12">Jan-Baptist </text><text id="sn-12">DUPONT</text><text id="bd-12">* Flobecq 21-05-1720</text><text id="dd-12">&#8224; Everbeek 10-01-1794</text>
+<text id="nm-24">Jean </text><text id="sn-24">DUPONT</text><text id="bd-24">* Flobecq 06-03-1676</text><text id="dd-24"></text>
+<text id="nm-25">Margurite </text><text id="sn-25">BOUVERYE</text><text id="bd-25">* Flobecq 03-04-1686</text><text id="dd-25">&#8224; Flobecq 04-05-1729</text>
+<text id="nm-13">Theresa </text><text id="sn-13">VANDE PONTSEELE</text><text id="bd-13">* Everbeek 28-01-1725</text><text id="dd-13">&#8224; Everbeek 16-12-1793</text>
+<text id="nm-26">Henri </text><text id="sn-26">VANDE PONTSEELE</text><text id="bd-26">* Everbeek 28-06-1685</text><text id="dd-26">&#8224; Everbeek 07-06-1733</text>
+<text id="nm-27">Jeanne M.</text><text id="sn-27">DE TANDT</text><text id="bd-27">* Everbeek 07-09-1694</text><text id="dd-27">&#8224; Everbeek 06-11-1752</text>
+<text id="nm-7">Marie-Therese </text><text id="sn-7">POLS</text><text id="bd-7">* Everbeek 10-02-1767</text><text id="dd-7">&#8224; Everbeek 06-01-1795</text>
+<text id="nm-14">Antoine </text><text id="sn-14">POLS</text><text id="bd-14">* Everbeek 10-02-1733</text><text id="dd-14">&#8224; Everbeek 12-03-1802</text>
+<text id="nm-28">Jacques </text><text id="sn-28">POLS</text><text id="bd-28">* Everbeek 11-07-1706</text><text id="dd-28">&#8224; Everbeek 14-10-1773</text>
+<text id="nm-29">Catherina </text><text id="sn-29">DANEELS</text><text id="bd-29">* Everbeek 20-05-1714</text><text id="dd-29">&#8224; Everbeek 30-04-1775</text>
+<text id="nm-15">Elisabeth </text><text id="sn-15">VANDEMEYNSBRUGGE</text><text id="bd-15">~ Everbeek 29-03-1732</text><text id="dd-15">&#8224; Everbeek 25-01-1794</text>
+<text id="nm-30">Pierre </text><text id="sn-30">VANDEMEYNSBRUGGE</text><text id="bd-30"></text><text id="dd-30"></text>
+<text id="nm-31">Joanne M.</text><text id="sn-31">DE BRUYNE</text><text id="bd-31"></text><text id="dd-31">&#8224; Everbeek 22-01-1767</text>
+</defs>
+<g transform="translate(0, -77)">
+<!-- gen1 -->
+<g style="text-anchor:middle" fill="black" font-size="22">
+<a class="av" xlink:href="index9.html" target="_top">
+<use x="877" y="1034" xlink:href="#nm-1"/>
+<use x="877" y="1056" xlink:href="#sn-1"/>
+</a>
+</g>
+<g style="text-anchor:middle" fill="black" font-size="15">
+<use x="877" y="1078" xlink:href="#bdd1"/>
+</g>
+<!-- gen2 -->
+<g style="text-anchor:middle" fill="black" font-size=" 22">
+<use x="476" y="810" xlink:href="#nm-2"/>
+<use x="476" y="832" xlink:href="#sn-2"/>
+<use x="1262" y="810" xlink:href="#nm-3"/>
+<use x="1262" y="832" xlink:href="#sn-3"/>
+</g>
+<g style="text-anchor:middle" fill="black" font-size="15">
+<use x="476" y="854" xlink:href="#bd-2"/>
+<use x="476" y="870" xlink:href="#dd-2"/>
+<use x="1262" y="854" xlink:href="#bd-3"/>
+<use x="1262" y="870" xlink:href="#dd-3"/>
+</g>
+<!-- gen3 -->
+<g style="text-anchor:middle" fill="black" font-size=" 18">
+<use x="280" y="590" xlink:href="#nm-4"/>
+<use x="280" y="612" xlink:href="#sn-4"/>
+<use x="674" y="590" xlink:href="#nm-5"/>
+<use x="674" y="612" xlink:href="#sn-5"/>
+<use x="1070" y="590" xlink:href="#nm-6"/>
+<use x="1070" y="612" xlink:href="#sn-6"/>
+<use x="1460" y="590" xlink:href="#nm-7"/>
+<use x="1460" y="612" xlink:href="#sn-7"/>
+</g>
+<g style="text-anchor:middle" fill="black" font-size="15">
+<use x="280" y="634" xlink:href="#bd-4"/>
+<use x="280" y="650" xlink:href="#dd-4"/>
+<use x="674" y="634" xlink:href="#bd-5"/>
+<use x="674" y="650" xlink:href="#dd-5"/>
+<use x="1070" y="634" xlink:href="#bd-6"/>
+<use x="1070" y="650" xlink:href="#dd-6"/>
+<use x="1460" y="634" xlink:href="#bd-7"/>
+<use x="1460" y="650" xlink:href="#dd-7"/>
+</g>
+<!-- gen4 -->
+<g style="text-anchor:middle" fill="black" font-size=" 18">
+<use x="188" y="400" xlink:href="#nm-8"/>
+<use x="188" y="422" xlink:href="#sn-8"/>
+<use x="386" y="400" xlink:href="#nm-9"/>
+<use x="386" y="422" xlink:href="#sn-9"/>
+<use x="578" y="400" xlink:href="#nm-10"/>
+<use x="578" y="422" xlink:href="#sn-10"/>
+<use x="773" y="400" xlink:href="#nm-11"/>
+<use x="773" y="422" xlink:href="#sn-11"/>
+<use x="974" y="400" xlink:href="#nm-12"/>
+<use x="974" y="422" xlink:href="#sn-12"/>
+<use x="1169" y="400" xlink:href="#nm-13"/>
+<use x="1169" y="422" xlink:href="#sn-13"/>
+<use x="1364" y="400" xlink:href="#nm-14"/>
+<use x="1364" y="422" xlink:href="#sn-14"/>
+<use x="1559" y="400" xlink:href="#nm-15"/>
+<use x="1559" y="422" xlink:href="#sn-15"/>
+</g>
+<g style="text-anchor:middle" fill="black" font-size="15">
+<use x="188" y="444" xlink:href="#bd-8"/>
+<use x="188" y="460" xlink:href="#dd-8"/>
+<use x="386" y="444" xlink:href="#bd-9"/>
+<use x="386" y="460" xlink:href="#dd-9"/>
+<use x="578" y="444" xlink:href="#bd-10"/>
+<use x="578" y="460" xlink:href="#dd-10"/>
+<use x="773" y="444" xlink:href="#bd-11"/>
+<use x="773" y="460" xlink:href="#dd-11"/>
+<use x="974" y="444" xlink:href="#bd-12"/>
+<use x="974" y="460" xlink:href="#dd-12"/>
+<use x="1169" y="444" xlink:href="#bd-13"/>
+<use x="1169" y="460" xlink:href="#dd-13"/>
+<use x="1364" y="444" xlink:href="#bd-14"/>
+<use x="1364" y="460" xlink:href="#dd-14"/>
+<use x="1559" y="444" xlink:href="#bd-15"/>
+<use x="1559" y="460" xlink:href="#dd-15"/>
+</g>
+<!-- gen5 -->
+<g transform="rotate(-90) translate(-410, 0)">
+<g style="text-anchor:middle;" fill="black" font-size=" 18">
+<use x="200" y="125" xlink:href="#nm-16"/>
+<use x="200" y="145" xlink:href="#sn-16"/>
+<use x="200" y="220" xlink:href="#nm-17"/>
+<use x="200" y="240" xlink:href="#sn-17"/>
+<use x="200" y="320" xlink:href="#nm-18"/>
+<use x="200" y="340" xlink:href="#sn-18"/>
+<use x="200" y="415" xlink:href="#nm-19"/>
+<use x="200" y="435" xlink:href="#sn-19"/>
+<use x="200" y="515" xlink:href="#nm-20"/>
+<use x="200" y="535" xlink:href="#sn-20"/>
+<use x="200" y="610" xlink:href="#nm-21"/>
+<use x="200" y="630" xlink:href="#sn-21"/>
+<use x="200" y="705" xlink:href="#nm-22"/>
+<use x="200" y="725" xlink:href="#sn-22"/>
+<use x="200" y="800" xlink:href="#nm-23"/>
+<use x="200" y="820" xlink:href="#sn-23"/>
+<use x="200" y="905" xlink:href="#nm-24"/>
+<use x="200" y="925" xlink:href="#sn-24"/>
+<use x="200" y="1000" xlink:href="#nm-25"/>
+<use x="200" y="1020" xlink:href="#sn-25"/>
+<use x="200" y="1100" xlink:href="#nm-26"/>
+<use x="200" y="1120" xlink:href="#sn-26"/>
+<use x="200" y="1195" xlink:href="#nm-27"/>
+<use x="200" y="1215" xlink:href="#sn-27"/>
+<use x="200" y="1295" xlink:href="#nm-28"/>
+<use x="200" y="1315" xlink:href="#sn-28"/>
+<use x="200" y="1390" xlink:href="#nm-29"/>
+<use x="200" y="1410" xlink:href="#sn-29"/>
+<use x="200" y="1490" xlink:href="#nm-30"/>
+<use x="200" y="1510" xlink:href="#sn-30"/>
+<use x="200" y="1590" xlink:href="#nm-31"/>
+<use x="200" y="1610" xlink:href="#sn-31"/>
+</g>
+<g style="text-anchor:middle" fill="black" font-size="15">
+<use x="200" y="165" xlink:href="#bd-16"/>
+<use x="200" y="181" xlink:href="#dd-16"/>
+<use x="200" y="260" xlink:href="#bd-17"/>
+<use x="200" y="276" xlink:href="#dd-17"/>
+<use x="200" y="360" xlink:href="#bd-18"/>
+<use x="200" y="376" xlink:href="#dd-18"/>
+<use x="200" y="455" xlink:href="#bd-19"/>
+<use x="200" y="471" xlink:href="#dd-19"/>
+<use x="200" y="555" xlink:href="#bd-20"/>
+<use x="200" y="571" xlink:href="#dd-20"/>
+<use x="200" y="650" xlink:href="#bd-21"/>
+<use x="200" y="666" xlink:href="#dd-21"/>
+<use x="200" y="745" xlink:href="#bd-22"/>
+<use x="200" y="761" xlink:href="#dd-22"/>
+<use x="200" y="840" xlink:href="#bd-23"/>
+<use x="200" y="856" xlink:href="#dd-23"/>
+<use x="200" y="945" xlink:href="#bd-24"/>
+<use x="200" y="961" xlink:href="#dd-24"/>
+<use x="200" y="1040" xlink:href="#bd-25"/>
+<use x="200" y="1056" xlink:href="#dd-25"/>
+<use x="200" y="1140" xlink:href="#bd-26"/>
+<use x="200" y="1156" xlink:href="#dd-26"/>
+<use x="200" y="1235" xlink:href="#bd-27"/>
+<use x="200" y="1251" xlink:href="#dd-27"/>
+<use x="200" y="1335" xlink:href="#bd-28"/>
+<use x="200" y="1351" xlink:href="#dd-28"/>
+<use x="200" y="1430" xlink:href="#bd-29"/>
+<use x="200" y="1446" xlink:href="#dd-29"/>
+<use x="200" y="1530" xlink:href="#bd-30"/>
+<use x="200" y="1546" xlink:href="#dd-30"/>
+<use x="200" y="1630" xlink:href="#bd-31"/>
+<use x="200" y="1646" xlink:href="#dd-31"/>
+</g>
+</g>
+
+</g>
+</svg>
